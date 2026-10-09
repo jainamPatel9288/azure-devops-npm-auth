@@ -61,3 +61,5 @@ An admin registers an Entra app once:
 ## License
 
 MIT
+
+Testing
